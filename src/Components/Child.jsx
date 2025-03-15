@@ -1,4 +1,4 @@
-import GrandChild from "./grandChild";
+import GrandChild from "./GrandChild";
 
 
 const Child = (props) => {
